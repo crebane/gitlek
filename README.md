@@ -4,4 +4,10 @@
 
 <h2>This is also heading 2</h2>
 
-Nu testar jag att skriva en paragraf  
+Nu testar jag att skriva en paragraf 
+
+Innan Horizonal rule
+
+***
+
+efter horizontal rule 
